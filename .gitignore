@@ -1,0 +1,6 @@
+.aws/
+.tfenv/
+setup/terraform/terraform.tfstate
+setup/terraform/terraform.tfstate.backup
+setup/terraform/.terraform/
+setup/terraform/.terraform.lock.hcl
