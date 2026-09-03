@@ -10,7 +10,7 @@ on:
 env:
   NODE_VERSION: 18.14
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: mp-frontend
+  ECR_REPOSITORY: frontend
   EKS_CLUSTER_NAME: cluster
   REACT_APP_MOVIE_API_URL: http://localhost:5000
 
